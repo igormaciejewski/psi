@@ -1,0 +1,30 @@
+.navigation{
+    position: absolute;
+    top:0px;
+    left:0px;
+    background-color:rgb(86, 41, 41);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    z-index: 10;
+}
+a{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.movie{
+    width: 100%;
+    filter: brightness(0.5);
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    color: rgb(86, 41, 41);
+}
+body{
+    margin: unset;
+}

@@ -1,0 +1,26 @@
+.item{
+    border: 1px solid black;
+    text-align: center;
+    border-width: 3px;
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+.itemm{
+    border: 1px solid black;
+    text-align: center;
+    border-width: 3px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;   
+}
+.article_list{
+    position: absolute;
+    left: 50%;
+    top: 0%;
+}
+.article_list_left{
+    position: absolute;
+    left: 28%;
+    top: 0%;
+}

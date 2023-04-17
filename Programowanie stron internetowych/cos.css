@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(174, 0, 255, 0.361);
+    background-image: url(pexel.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img{
+    border: 5px #000000;
+    border-style: dashed;
+    border-radius: 50%;
+
+}
+
+p {
+    color: #000000;
+    background-color: rgba(101, 101, 101, 0.361);
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 200;
+    font-variant: small-caps;
+    text-shadow: 8px 5px 4px black ;
+    text-transform: none;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
